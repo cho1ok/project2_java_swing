@@ -4,7 +4,7 @@
 java swing project - use open api to scheduling &amp; booking specifically interested exhibition
 <br><br>
 
-![30-2](https://github.com/cho1ok/project1_escape_game/assets/117049958/b8d7ea27-72e7-4cf1-9c67-9b3b475474d4)
+![012](https://github.com/cho1ok/project1_escape_game/assets/117049958/0a79c0f7-1098-46cb-8ba4-6064b52b72c2)
 <br><br><br>
 
 &nbsp;
